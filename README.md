@@ -11,6 +11,7 @@ follow the steps below:
 - apply necessary changes and best-known practices and/or standards
 - make sure each page view remains the same unless there is HTML standard violation
 - make sure URL behaviour remains the same
+- make sure your starting point is current state of this repo
 - make sure all the HTTP requests pointing to the same location (public/index.php )
 - reuse as much code as you can (e.g. 'Main_finance' class)
 - implement Doctrine on existing database but don't change any table or field name
