@@ -17,7 +17,7 @@ follow the steps below:
 - describe database migration process if there are any necessary changes
 - use version control tagging system and create at least 3 releases (we will check each of them)
 - make sure you don't rewrite everything in one go. Please rewrite piece by piece and make sure each release is fully
-  backwards compatible with PHP 5.6
+  backwards compatible with PHP 5.6 and we are able to switch between PHP versions without altering the code
 - feel free to use your preferable environment e.g. Docker, Vagrant, etc.
 - describe bootstrap process for each PHP version (e.g. below)
 
